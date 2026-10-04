@@ -2,8 +2,6 @@
 
 这是 Totem Arts Launcher 1.3.0 的非官方 Linux AppImage 汉化版。
 
-完整 AppImage 请从 GitHub Releases 下载；普通仓库仅保存项目说明和翻译源文件。
-
 本项目与 Totem Arts、Electronic Arts 或 Renegade X 官方团队没有隶属关系。AppImage 不包含已安装的游戏文件或用户数据。
 
 ## 运行
